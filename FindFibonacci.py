@@ -20,6 +20,7 @@ def FindFibonacci(n):
 print "fibonacci(%d) -> %.0f" %(0, FindFibonacci(0))
 print "fibonacci(%d) -> %.0f" %(1, FindFibonacci(1))
 print "fibonacci(%d) -> %.0f" %(2, FindFibonacci(2))
+print "fibonacci(%d) -> %.0f" %(3, FindFibonacci(3))
 print "fibonacci(%d) -> %.0f" %(10, FindFibonacci(10))
 print "fibonacci(%d) -> %.0f" %(20, FindFibonacci(20))
 print "fibonacci(%d) -> %.0f" %(40, FindFibonacci(40))
