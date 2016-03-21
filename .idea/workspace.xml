@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73d4663c-3d02-4b6e-a60d-409171ec6281" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterations/gcd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Recursion/count8.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Recursion/count8.py" afterPath="$PROJECT_DIR$/Recursion/count8.py" />
     </list>
     <ignored path="CareerMonk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="count8.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Recursion/count8.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61904764">
-              <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.04761905">
+              <caret line="15" column="130" selection-start-line="15" selection-start-column="130" selection-end-line="15" selection-end-column="130" />
               <folding />
             </state>
           </provider>
@@ -444,7 +443,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458411073469</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="count8">
+      <created>1458576032489</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1458576032490</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -488,7 +493,8 @@
     <MESSAGE value="bunnyEars2" />
     <MESSAGE value="triangle blocks" />
     <MESSAGE value="count7" />
-    <option name="LAST_COMMIT_MESSAGE" value="count7" />
+    <MESSAGE value="count8" />
+    <option name="LAST_COMMIT_MESSAGE" value="count8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -569,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Recursion/count8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61904764">
-          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.04761905">
+          <caret line="15" column="130" selection-start-line="15" selection-start-column="130" selection-end-line="15" selection-end-column="130" />
           <folding />
         </state>
       </provider>

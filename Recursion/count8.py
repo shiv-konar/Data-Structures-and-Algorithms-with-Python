@@ -13,11 +13,11 @@ count8(8818) → 4
 http://codingbat.com/prob/p192383
 '''
 def count8(n):
-    if n <= 9 and n % 8 == 0:  #check if we have reached the first digit starting from the units place and if the first digit is 7
+    if n <= 9 and n % 8 == 0:  #check if we have reached the first digit starting from the units place and if the first digit is 8
         return 1
-    elif n <=9 and n % 8 != 0:  #check if we have reached the first digit starting from the units place and if the first digit is not 7
+    elif n <=9 and n % 8 != 0:  #check if we have reached the first digit starting from the units place and if the first digit is not 8
         return 0
-    else:  #check if the units place digit is a 7 or not
+    else:  #check if the units place digit is a 8 or not
         if (n % 10) % 8 == 0 and (n % 100) % 8 == 0:
             return 2 + count8(n / 10)
         elif (n % 10) % 8 == 0:
